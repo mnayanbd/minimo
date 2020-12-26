@@ -1,0 +1,4 @@
+photoshop: Save for web shortcut: 
+control+alt+shift+s
+
+sublime: to copy a line: ctrl+shift+d
